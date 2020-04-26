@@ -1,0 +1,13 @@
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.di{
+    width: 50%;
+}
+.mi{
+    width: 40%;
+}
+.di img{
+    width: 100%;;
+}
