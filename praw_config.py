@@ -2,8 +2,8 @@
 import praw
 class auth_reddit:
     def __init__(self):
-        self.client_id="DTbTSuxDGtVJug"
-        self.client_secret="orXJveX08LGihNpH2wzveK0PPGc"
+        self.client_id=""
+        self.client_secret=""
         self.user_agent='by u/ravisng_h'
         
     def get(self):
