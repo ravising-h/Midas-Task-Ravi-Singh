@@ -1,6 +1,6 @@
 # Reddit-Flair-Detector
 ![](asset/reddit-gilded-comments-wordcloud.png)
-Check My [Website](www.redditflairdetravi.herokuapp.com/)
+Check My [Website](https://www.redditflairdetravi.herokuapp.com/)
 
 ## Portions of Projects
 Problems - Reddit Flare Detection
